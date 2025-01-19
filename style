@@ -1,0 +1,23 @@
+QWidget{
+    background-color: #ff7b00;
+}
+QPushButton{
+    background-color: #923800;
+    color:#ffffff;
+    border-radius: 20px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+QPushButton:hover{
+    background-color: #ff9100
+}
+
+QLabel{
+    font-size: 25px;
+}
+
+QRadioButton{
+    font-size: 22px;
+}
